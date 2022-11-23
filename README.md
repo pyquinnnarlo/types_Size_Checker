@@ -1,3 +1,3 @@
 <h1>Developer: PyQuinn </h1>
 
-A simple code written in C++ for data types size checking.
+A simple program written in C++ checking the data types sizes.
